@@ -8,4 +8,4 @@ git add .
 git commit -m "$current_date_time commit"
 git push 
 
-echo "Publish success $(date +"%Y-%m-%d %H:%M:%S")
+echo "Publish success $(date +"%Y-%m-%d %H:%M:%S")"
